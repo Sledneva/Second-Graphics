@@ -1,0 +1,18 @@
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\SecondGraphics\SecondGraphics\bin\Debug\SecondGraphics.exe.config
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\SecondGraphics\SecondGraphics\bin\Debug\SecondGraphics.exe
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\SecondGraphics\SecondGraphics\bin\Debug\SecondGraphics.pdb
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.csprojResolveAssemblyReference.cache
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.GraphicsForm.resources
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.Properties.Resources.resources
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.csproj.GenerateResource.Cache
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.exe
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.pdb
+G:\SecondGraphics\SecondGraphics\bin\Debug\SecondGraphics.exe.config
+G:\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.exe
+G:\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.pdb
+G:\SecondGraphics\SecondGraphics\bin\Debug\SecondGraphics.exe
+G:\SecondGraphics\SecondGraphics\bin\Debug\SecondGraphics.pdb
+G:\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.csprojResolveAssemblyReference.cache
+G:\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.GraphicsForm.resources
+G:\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.Properties.Resources.resources
+G:\SecondGraphics\SecondGraphics\obj\Debug\SecondGraphics.csproj.GenerateResource.Cache
